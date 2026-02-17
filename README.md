@@ -1,4 +1,4 @@
-# Quantum Circuit Renderer
+# qasm-zx-cli
 
 A minimal command-line tool to render OpenQASM 2.0 quantum circuits as images (PNG/PDF) using PyZX.
 
